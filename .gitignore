@@ -1,7 +1,7 @@
 seq/
 *.png
 *.sdf
-
+ipch/
 
 # Created by https://www.gitignore.io/api/windows,visualstudio
 
